@@ -27,3 +27,6 @@
 - **谷歌访问助手**
 
 通过在Chrome中安装这个插件，你就可以轻松访问Google搜索、Google学术、Gmail等Google旗下的产品了；
+
+- **KMS10**
+用于激活windows和office系列软件，注意：使用前请先关闭电脑中的杀毒软件；
