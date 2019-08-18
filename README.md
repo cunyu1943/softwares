@@ -6,15 +6,15 @@
 
 -   **BANDIZIP**
 
-[官网]([https://cn.bandisoft.com/](https://cn.bandisoft.com/)闪电压缩，一款解压缩软件，相较于其他解压缩软件，支持的格式更加齐全，速度也更加快速；
+[官网](https://cn.bandisoft.com/)闪电压缩，一款解压缩软件，相较于其他解压缩软件，支持的格式更加齐全，速度也更加快速；
 
 -   **暴风激活**
 
-[官网]([http://www.baofengjihuo.com/](http://www.baofengjihuo.com/)用于激活Windows系统和Office系列软件，使用前请先关闭电脑中的杀毒软件，否则可能会提示病毒；
+[官网](http://www.baofengjihuo.com/)用于激活Windows系统和Office系列软件，使用前请先关闭电脑中的杀毒软件，否则可能会提示病毒；
 
 -   **CCleaner_Pro_v5.45.6652基于高级规则的破解版**
 
-[官网]([https://www.ccleaner.com/](https://www.ccleaner.com/)绿色软件，用于清理电脑中的垃圾，也有其他功能，如果实在是受够了全家桶，值得一试；
+[官网](https://www.ccleaner.com/)绿色软件，用于清理电脑中的垃圾，也有其他功能，如果实在是受够了全家桶，值得一试；
 
 -   PanDownload
 
