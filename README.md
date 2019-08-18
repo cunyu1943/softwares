@@ -42,7 +42,7 @@
 
 - MarkText
 
-!(官网)[https://marktext.app/] ，一款所见即所得的Markdown编辑器，支持本地编写之后复制到任何支持Markdown格式的平台，而且图片也不会像Typora一样难以上传；
+[官网](https://marktext.app/) ，一款所见即所得的Markdown编辑器，支持本地编写之后复制到任何支持Markdown格式的平台，而且图片也不会像Typora一样难以上传；
 
 - **Navicat for MySQL破解版**
 
