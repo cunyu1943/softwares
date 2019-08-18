@@ -81,3 +81,7 @@
 [下载链接](http://trans.zhiyunwenxian.cn:8080/login.html)知云文献翻译V5.1，一款用于阅读英文文献的神器，既可以看PDF，也可以看word，也能当做PDF阅读器使用；
 
 # 常用网站
+
+-   极简插件
+    
+[官网](https://chrome.zzzmh.cn/)，用于收集浏览器所用插件，类似于Chrome的应用商店，但是可以通过第三方下载安装；
