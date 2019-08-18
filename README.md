@@ -82,6 +82,34 @@
 
 # 常用网站
 
--   极简插件
-    
+-   **极简插件**
+
 [官网](https://chrome.zzzmh.cn/)，用于收集浏览器所用插件，类似于Chrome的应用商店，但是可以通过第三方下载安装；
+
+-   **uupoop**
+
+[官网](https://www.uupoop.com/)，在线PS工具；
+
+-   **PDF派**
+
+[官网](https://www.pdfpai.com/)，PDF转换工具，可以实现多格式与PDF互转；
+
+-   **1纳米导航网站**
+
+[官网](http://1nami.com/)，各种网站导航页，对于IT学习很有帮助；
+
+-   **虫部落**
+
+[官网](https://search.chongbuluo.com/)，一个综合的学术搜索网站；
+
+-   **图片在线编辑**
+
+[官网](https://www.iloveimg.com/zh-cn)，可以对图片进行在线压缩、裁剪、转换、添加水印等工作；
+
+-   **Process On**
+
+[官网](https://v3.processon.com/)，在线作图网站，制作流程图等；
+
+-   百度脑图
+
+[官网](http://naotu.baidu.com/)，在线思维导图制作工具；
