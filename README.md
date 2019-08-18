@@ -40,6 +40,10 @@
 
 用于激活windows和office系列软件，其他两款激活不了时，强烈推荐这款，注意：使用前请先关闭电脑中的杀毒软件；
 
+- MarkText
+
+!(官网)[https://marktext.app/] ，一款所见即所得的Markdown编辑器，支持本地编写之后复制到任何支持Markdown格式的平台，而且图片也不会像Typora一样难以上传；
+
 - **Navicat for MySQL破解版**
 
 用于连接Mysql数据库的图形化管理工具；
