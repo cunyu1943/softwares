@@ -28,6 +28,10 @@
 
 [官网](https://justgetflux.com/)护眼神器，能够随着时间的变化而自动调节电脑屏幕亮度，最大限度缓解眼睛的疲劳，还有睡眠模式、电影模式等；
 
+- **GitNote**
+
+[官网](https://gitnoteapp.com/zh/)，基于Git的全平台笔记软件，不仅支持Markdown格式，还有脑图插件，图床插件供使用；
+
 -   **谷歌访问助手**
 
 [官网](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN)通过在Chrome中安装这个插件，你就可以轻松访问Google搜索、Google学术、Gmail等Google旗下的产品了；
