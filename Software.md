@@ -7,11 +7,11 @@
 | 软件名           | 下载链接                                                     | 说明                                     |
 | ---------------- | ------------------------------------------------------------ | ---------------------------------------- |
 | **Ubuntu**       | [下载链接](https://mirrors.huaweicloud.com/ubuntu-releases/) |                                          |
-| **Deepin**       | [下载链接](https://mirrors.huaweicloud.com/deepin-cd/)       |                                          |
+| **Deepin**       | [下载链接](https://mirrors.huaweicloud.com/deepin-cd/)       | 深度操作系统，个人认为国内最佳           |
 | **Archlinux**    | [下载链接](https://mirrors.huaweicloud.com/archlinux/)       |                                          |
 | **Centos**       | [下载链接](https://mirrors.huaweicloud.com/centos/)          |                                          |
 | **Debian**       | [下载链接](https://mirrors.huaweicloud.com/debian-cd/)       |                                          |
-| **Ubuntu Kylin** | [下载链接](http://www.ubuntukylin.com/downloads/)            |                                          |
+| **Ubuntu Kylin** | [下载链接](http://www.ubuntukylin.com/downloads/)            | 基于Ubuntu的国产化系统                   |
 | **Manjora**      | [下载链接](https://manjaro.org/download/)                    | 最受欢迎的Linux发行版之一，基于Archlinux |
 
 
