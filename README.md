@@ -4,9 +4,9 @@
 
 本项目主要用于搜集推荐一些常用系统、软件以及网站。如果对您有所帮助，记得右上角 **Star ！！！**，或者也可以请我和杯咖啡，哈哈哈，也欢迎加微信或关注微信公众号交流~
 
-- [系统&软件](https://gitee.com/cunyu1943/Software_Website/blob/master/Software.md)
+- [系统&软件](https://github.com/cunyu1943/Software_Website/blob/master/Software.md)
 
-- [网站](https://gitee.com/cunyu1943/Software_Website/blob/master/Websites.md)
+- [网站](https://github.com/cunyu1943/Software_Website/blob/master/Websites.md)
 
 	
 
