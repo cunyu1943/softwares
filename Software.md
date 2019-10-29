@@ -27,7 +27,7 @@
 | **Visual Studio Code** | [下载链接](https://code.visualstudio.com/?wt.mc_id=vscom_downloads) | 跟Visual Studio同出一脉的跨平台代码编辑器                   |
 | **Atom**               | [下载链接](https://mirrors.huaweicloud.com/atom/)                   | Github开发的跨平台代码编辑器，支持丰富插件                      |
 | **Notepad++**          | [下载链接](https://notepad-plus-plus.org/downloads/)                | Windows下文本编辑器，支持完整中文化接口并支持多国语言编写，支持众多计算机程序语言； |
-| Sublime Text 3         | [下载链接](https://www.sublimetext.com/3)                           | 一款流行的代码编辑器软件，可运行在Linux，Windows和Mac OS X       |
+| **Sublime Text 3**         | [下载链接](https://www.sublimetext.com/3)                           | 一款流行的代码编辑器软件，可运行在Linux，Windows和Mac OS X       |
 
 ### 文字笔记处理
 
