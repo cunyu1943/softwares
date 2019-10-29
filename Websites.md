@@ -21,6 +21,11 @@
 | [虫部落-学术搜索](https://scholar.chongbuluo.com/) | 一个综合的学术搜索网站        |
 | [菜鸟教程](https://www.runoob.com/)             | 各种编程语言文档教程         |
 | [W3CSchool](https://www.w3cschool.cn/)      | 在线学习网站             |
+| [爱慕课](https://www.imooc.com/)               | 程序员的梦工厂            |
+| [极客学院](https://www.jikexueyuan.com/)        | 专业的IT教育平台          |
+| [网易云课堂](https://study.163.com/)             | 领先的技能应用学习平台        |
+|                                             |                    |
+|                                             |                    |
 
 ### 导航网站
 
@@ -53,5 +58,3 @@
 | [Windows系统下载](https://tb.rg-adguard.net/public.php) | Windows系统下载 |
 | [MSDN](https://msdn.itellyou.cn/)                   | 微软相关资源下载    |
 |                                                     |             |
-
-
