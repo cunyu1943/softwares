@@ -10,9 +10,9 @@
 
 ### 请小编喝咖啡
 
-| 微信                                                                                      | 支付宝                                                                                     |
-|:---------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
-| ![](https://raw.githubusercontent.com/cunyu1943/blog-picturebed/master/data/wechat.png) | ![](https://raw.githubusercontent.com/cunyu1943/blog-picturebed/master/data/alipay.jpg) |
+|                             微信                             |                            支付宝                            |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](https://raw.githubusercontent.com/cunyu1943/image-hosting-for-blog/master/img/20191112210029.png) | ![](https://raw.githubusercontent.com/cunyu1943/image-hosting-for-blog/master/img/20191112205944.jpg) |
 
 ### 联系小编
 
