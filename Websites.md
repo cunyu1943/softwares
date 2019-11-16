@@ -24,7 +24,7 @@
 | [爱慕课](https://www.imooc.com/)               | 程序员的梦工厂            |
 | [极客学院](https://www.jikexueyuan.com/)        | 专业的IT教育平台          |
 | [网易云课堂](https://study.163.com/)             | 领先的技能应用学习平台        |
-|                                             |                    |
+| [廖雪峰的官网](https://www.liaoxuefeng.com/)      | 廖雪峰的个人网站，里边有Java、Python、Git等教程 |
 |                                             |                    |
 
 ### 导航网站
