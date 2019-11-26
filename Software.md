@@ -2,6 +2,12 @@
 
 此项目搜集推荐一些常用系统及软件下载链接下载链接，长期持续更新，如果对你有帮助，请记得在右上角Star一下，谢谢支持！！！
 
+
+
+[toc]
+
+
+
 ### 系统
 
 | 软件名              | 下载链接                                                     | 说明                          |
@@ -29,7 +35,7 @@
 | **Notepad++**          | [下载链接](https://notepad-plus-plus.org/downloads/)                | Windows下文本编辑器，支持完整中文化接口并支持多国语言编写，支持众多计算机程序语言； |
 | **Sublime Text 3**         | [下载链接](https://www.sublimetext.com/3)                           | 一款流行的代码编辑器软件，可运行在Linux，Windows和Mac OS X       |
 
-### 文字笔记处理
+### 文字处理
 
 | 软件名             | 下载链接                                        | 说明                                 |
 | --------------- |:------------------------------------------- | ---------------------------------- |
@@ -39,6 +45,16 @@
 | **Typora**      | [下载链接](https://www.typora.io/)              | 跨平台所见即所得的Markdown编辑器               |
 | **Sumatra PDF** | [下载链接](https://www.sumatrapdfreader.org)    | 轻量级pdf阅读器                          |
 | **知云文献翻译**      | [下载链接](http://i.zhiyunwenxian.cn/1.html)    | 专为研究生服务的学术文献翻译神器，翻译精准高效            |
+
+### 视频/音频
+
+| 软件名   | 下载链接                                               | 说明           |
+| -------- | ------------------------------------------------------ | -------------- |
+| OpenShot | [下载链接](https://www.openshot.org/zh-hans/download/) | 免费视频编辑器 |
+|          |                                                        |                |
+|          |                                                        |                |
+
+
 
 ### 文件管理
 
@@ -58,15 +74,14 @@
 
 ### 下载工具
 
-| 软件名                       | 下载链接                                             | 说明                                   |
-| ------------------------- | ------------------------------------------------ | ------------------------------------ |
-| **PanDownload**           | [下载链接](http://pandownload.com/)                  | 第三方百度云，不限速，告别等待                      |
-| **Free Download Manager** | [下载链接](https://www.freedownloadmanager.org/zh/)  | 下载工具                                 |
-| **Motrix**                | [下载链接](https://motrix.app/zh-CN/)                | 一款全能的下载工具，支持 HTTP、FTP、BT、磁力链、百度网盘等   |
-| **IDM**                   | [下载链接](https://www.internetdownloadmanager.com/) | 多线程下载工具，搭配Chrome，速度嗖嗖的               |
-| **冰点下载**                  | [下载链接](http://www.bingdian001.com/?p=30)         | 无需积分自由下载百度、豆丁、丁香、MBALib、Book118等文库文档 |
-| **速盘**    | [下载链接](https://www.speedpan.com/speedpan-free.html)   | 第三方百度云下载
-
+| 软件名                    | 下载链接                                                | 说明                                                        |
+| ------------------------- | ------------------------------------------------------- | ----------------------------------------------------------- |
+| **PanDownload**           | [下载链接](http://pandownload.com/)                     | 第三方百度云，不限速，告别等待                              |
+| **Free Download Manager** | [下载链接](https://www.freedownloadmanager.org/zh/)     | 下载工具                                                    |
+| **Motrix**                | [下载链接](https://motrix.app/zh-CN/)                   | 一款全能的下载工具，支持 HTTP、FTP、BT、磁力链、百度网盘等  |
+| **IDM**                   | [下载链接](https://www.internetdownloadmanager.com/)    | 多线程下载工具，搭配Chrome，速度嗖嗖的                      |
+| **冰点下载**              | [下载链接](http://www.bingdian001.com/?p=30)            | 无需积分自由下载百度、豆丁、丁香、MBALib、Book118等文库文档 |
+| **速盘**                  | [下载链接](https://www.speedpan.com/speedpan-free.html) | 第三方百度云下载                                            |
 ### 效率神器
 
 | 软件名            | 下载链接                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 说明                               |
