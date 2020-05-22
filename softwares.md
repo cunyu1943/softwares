@@ -1,24 +1,20 @@
-# 常用软件
+# 好玩好用的软件推荐系列
 
-此项目搜集推荐一些常用系统及软件下载链接下载链接，长期持续更新，如果对你有帮助，请记得在右上角Star一下，谢谢支持！！！
+# 系统系列
 
-
-
-[toc]
-
-
-
-### 系统
-
-| 软件名              | 下载链接                                                     | 说明                          |
-| ---------------- | -------------------------------------------------------- | --------------------------- |
-| **Ubuntu**       | [下载链接](https://mirrors.huaweicloud.com/ubuntu-releases/) |                             |
-| **Deepin**       | [下载链接](https://mirrors.huaweicloud.com/deepin-cd/)       | 深度操作系统，个人认为国内最佳             |
-| **Archlinux**    | [下载链接](https://mirrors.huaweicloud.com/archlinux/)       |                             |
-| **Centos**       | [下载链接](https://mirrors.huaweicloud.com/centos/)          |                             |
-| **Debian**       | [下载链接](https://mirrors.huaweicloud.com/debian-cd/)       |                             |
-| **Ubuntu Kylin** | [下载链接](http://www.ubuntukylin.com/downloads/)            | 基于Ubuntu的国产化系统              |
+| 系统名           | 下载链接                                                     | 说明                                     |
+| ---------------- | ------------------------------------------------------------ | ---------------------------------------- |
+| **Ubuntu**       | [下载链接](https://mirrors.huaweicloud.com/ubuntu-releases/) |                                          |
+| **Deepin**       | [下载链接](https://mirrors.huaweicloud.com/deepin-cd/)       | 深度操作系统，个人认为国内最佳           |
+| **Archlinux**    | [下载链接](https://mirrors.huaweicloud.com/archlinux/)       |                                          |
+| **Centos**       | [下载链接](https://mirrors.huaweicloud.com/centos/)          |                                          |
+| **Debian**       | [下载链接](https://mirrors.huaweicloud.com/debian-cd/)       |                                          |
+| **Ubuntu Kylin** | [下载链接](http://www.ubuntukylin.com/downloads/)            | 基于Ubuntu的国产化系统                   |
 | **Manjora**      | [下载链接](https://manjaro.org/download/)                    | 最受欢迎的Linux发行版之一，基于Archlinux |
+
+# 软件系列
+
+## Windows
 
 ### 编程
 
@@ -37,24 +33,20 @@
 
 ### 文字处理
 
-| 软件名             | 下载链接                                        | 说明                                 |
-| --------------- |:------------------------------------------- | ---------------------------------- |
-| **GitNote**     | [下载链接](https://gitnoteapp.com/zh/#download) | 跨平台基于Git的Markdown笔记软件，支持脑图、图床等插件扩展 |
-| **Gridea**      | [下载链接](https://gridea.dev/)                 | 跨平台静态博客写作客户端，搭建属于自己的博客             |
-| **MarkText**    | [下载链接](https://marktext.app/)               | 跨平台简洁优雅的Markdown编辑器                |
-| **Typora**      | [下载链接](https://www.typora.io/)              | 跨平台所见即所得的Markdown编辑器               |
-| **Sumatra PDF** | [下载链接](https://www.sumatrapdfreader.org)    | 轻量级pdf阅读器                          |
-| **知云文献翻译**      | [下载链接](http://i.zhiyunwenxian.cn/1.html)    | 专为研究生服务的学术文献翻译神器，翻译精准高效            |
+| 软件名           | 下载链接                                        | 说明                                                      |
+| ---------------- | :---------------------------------------------- | --------------------------------------------------------- |
+| **GitNote**      | [下载链接](https://gitnoteapp.com/zh/#download) | 跨平台基于Git的Markdown笔记软件，支持脑图、图床等插件扩展 |
+| **Gridea**       | [下载链接](https://gridea.dev/)                 | 跨平台静态博客写作客户端，搭建属于自己的博客              |
+| **MarkText**     | [下载链接](https://marktext.app/)               | 跨平台简洁优雅的Markdown编辑器                            |
+| **Typora**       | [下载链接](https://www.typora.io/)              | 跨平台所见即所得的Markdown编辑器                          |
+| **Sumatra PDF**  | [下载链接](https://www.sumatrapdfreader.org)    | 轻量级pdf阅读器                                           |
+| **知云文献翻译** | [下载链接](http://i.zhiyunwenxian.cn/)          | 专为研究生服务的学术文献翻译神器，翻译精准高效            |
 
 ### 视频/音频
 
 | 软件名   | 下载链接                                               | 说明           |
 | -------- | ------------------------------------------------------ | -------------- |
 | OpenShot | [下载链接](https://www.openshot.org/zh-hans/download/) | 免费视频编辑器 |
-|          |                                                        |                |
-|          |                                                        |                |
-
-
 
 ### 文件管理
 
@@ -92,3 +84,7 @@
 | **护眼宝**        | [下载链接](http://www.huyanbao.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 通过智能调节屏幕色温过滤蓝光的软件，从而保护眼睛         |
 | **Wox**        | [下载链接](http://www.wox.one/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 搭配Python使用的高效Windows Launcher    |
 | **火柴**         | [下载链接](http://huochaipro.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 快速查找文件、打开应用程序、局域网秒传文件、局域网聊天…     |
+
+## Linux
+
+## Mac 
