@@ -66,23 +66,23 @@
 
 ## 系统管理
 
-| 软件名             | 下载链接                                                     | 说明                                                         | Windows | Mac  | Linux |
-| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ---- | ----- |
-| **暴风激活**       | [下载链接](http://www.baofengjihuo.com)                      | Windows/Office激活软件                                       |         |      |       |
-| **火绒安全**       | [下载链接](https://www.huorong.cn)                           | 功能类似某60，某管家，但少了流氓                             |         |      |       |
-| **TrafficMonitor** | [下载链接](https://github.com/zhongyang219/TrafficMonitor/releases) | Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率 |         |      |       |
-| **TranslucentTB**  | [下载链接](https://github.com/TranslucentTB/TranslucentTB/releases) | Windows实现任务栏透明化或毛玻璃效果                          |         |      |       |
+| 软件名             | 下载链接                                                     | 说明                                                         | Windows  | Mac  | Linux |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | ---- | ----- |
+| **暴风激活**       | [下载链接](http://www.baofengjihuo.com)                      | Windows/Office激活软件                                       | @hearts; |      |       |
+| **火绒安全**       | [下载链接](https://www.huorong.cn)                           | 功能类似某60，某管家，但少了流氓                             |          |      |       |
+| **TrafficMonitor** | [下载链接](https://github.com/zhongyang219/TrafficMonitor/releases) | Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率 |          |      |       |
+| **TranslucentTB**  | [下载链接](https://github.com/TranslucentTB/TranslucentTB/releases) | Windows实现任务栏透明化或毛玻璃效果                          |          |      |       |
 
 ## 下载工具
 
-| 软件名                    | 下载链接                                                | 说明                                                        | Windows | Mac  | Linux |
-| ------------------------- | ------------------------------------------------------- | ----------------------------------------------------------- | ------- | ---- | ----- |
-| **PanDownload**           | [下载链接](http://pandownload.com/)                     | 第三方百度云，不限速，告别等待                              | - [x]   |      |       |
-| **Free Download Manager** | [下载链接](https://www.freedownloadmanager.org/zh/)     | 下载工具                                                    |         |      |       |
-| **Motrix**                | [下载链接](https://motrix.app/zh-CN/)                   | 一款全能的下载工具，支持 HTTP、FTP、BT、磁力链、百度网盘等  |         |      |       |
-| **IDM**                   | [下载链接](https://www.internetdownloadmanager.com/)    | 多线程下载工具，搭配Chrome，速度嗖嗖的                      |         |      |       |
-| **冰点下载**              | [下载链接](http://www.bingdian001.com/?p=30)            | 无需积分自由下载百度、豆丁、丁香、MBALib、Book118等文库文档 |         |      |       |
-| **速盘**                  | [下载链接](https://www.speedpan.com/speedpan-free.html) | 第三方百度云下载                                            |         |      |       |
+| 软件名                    | 下载链接                                                | 说明                                                        | Windows  | Mac  | Linux |
+| ------------------------- | ------------------------------------------------------- | ----------------------------------------------------------- | -------- | ---- | ----- |
+| **PanDownload**           | [下载链接](http://pandownload.com/)                     | 第三方百度云，不限速，告别等待                              | @hearts: |      |       |
+| **Free Download Manager** | [下载链接](https://www.freedownloadmanager.org/zh/)     | 下载工具                                                    |          |      |       |
+| **Motrix**                | [下载链接](https://motrix.app/zh-CN/)                   | 一款全能的下载工具，支持 HTTP、FTP、BT、磁力链、百度网盘等  |          |      |       |
+| **IDM**                   | [下载链接](https://www.internetdownloadmanager.com/)    | 多线程下载工具，搭配Chrome，速度嗖嗖的                      |          |      |       |
+| **冰点下载**              | [下载链接](http://www.bingdian001.com/?p=30)            | 无需积分自由下载百度、豆丁、丁香、MBALib、Book118等文库文档 |          |      |       |
+| **速盘**                  | [下载链接](https://www.speedpan.com/speedpan-free.html) | 第三方百度云下载                                            |          |      |       |
 ## 效率神器
 
 | 软件名           | 下载链接                                                     | 说明                                                         | Windows | Mac  | Linux |
