@@ -83,11 +83,14 @@
 | **冰点下载**              | [下载链接](http://www.bingdian001.com/?p=30)         | 无需积分自由下载百度、豆丁、丁香、MBALib、Book118 等文库文档 | &hearts; |          |          |
 ## 效率神器
 
-| 软件名           | 下载链接                                                     | 说明                                                         | Windows | Mac  | Linux |
-| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ---- | ----- |
-| **Everything**   | [下载链接](https://www.voidtools.com/zh-cn/)                 | 本地搜索神器，匹配正则，更可搭建服务器                       |         |      |       |
-| **谷歌访问助手** | [下载链接](https://github-production-release-asset-2e65be.s3.amazonaws.com/118309444/d2dc5000-024a-11e9-849a-659b99693212?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20191010%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191010T085834Z&X-Amz-Expires=300&X-Amz-Signature=cbf63ed755b38b2d3d523a6b4099e68cab5fe1de5e472f1ab3871f41d4328775&X-Amz-SignedHeaders=host&actor_id=22308895&response-content-disposition=attachment%3B%20filename%3Dgoogle-access-helper-2.3.0.crx&response-content-type=application%2Foctet-stream) | 嘿嘿，你懂的                                                 |         |      |       |
-| **f.lux**        | [下载链接](https://justgetflux.com)                          | 护眼神器，随时间的变化而自动调节电脑屏幕亮度，还有不同模式可调节 |         |      |       |
-| **护眼宝**       | [下载链接](http://www.huyanbao.com/)                         | 通过智能调节屏幕色温过滤蓝光的软件，从而保护眼睛             |         |      |       |
-| **Wox**          | [下载链接](http://www.wox.one/)                              | 搭配Python使用的高效Windows Launcher                         |         |      |       |
-| **火柴**         | [下载链接](http://huochaipro.com/)                           | 快速查找文件、打开应用程序、局域网秒传文件、局域网聊天…      |         |      |       |
+| 软件名             | 下载链接                                                     | 说明                                                         | Windows  | Mac      | Linux    |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | -------- | -------- |
+| **Everything**     | [下载链接](https://www.voidtools.com/zh-cn/)                 | 本地搜索神器，匹配正则，更可搭建服务器                       | &hearts; |          |          |
+| **uTools**         | [下载链接](https://u.tools/)                                 | uTools 是一个极简、插件化、跨平台的现代桌面软件。通过自由选配丰富的插件，打造你得心应手的工具集合。 | &hearts; | &hearts; | &hearts; |
+| **谷歌访问助手**   | [下载链接](https://github-production-release-asset-2e65be.s3.amazonaws.com/118309444/d2dc5000-024a-11e9-849a-659b99693212?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20191010%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191010T085834Z&X-Amz-Expires=300&X-Amz-Signature=cbf63ed755b38b2d3d523a6b4099e68cab5fe1de5e472f1ab3871f41d4328775&X-Amz-SignedHeaders=host&actor_id=22308895&response-content-disposition=attachment%3B%20filename%3Dgoogle-access-helper-2.3.0.crx&response-content-type=application%2Foctet-stream) | 提供访问 Google 搜索等服务                                   | &hearts; | &hearts; | &hearts; |
+| **PP谷歌访问助手** | [下载链接](https://chrome.zzzmh.cn/info?token=kahndhhhcnignmbbpiobmdlgjhgfkfil) | 类似学谷歌访问助手，提供访问 Google 搜索等服务               | &hearts; | &hearts; | &hearts; |
+| **集装箱**         | [下载链接](http://one.newday.me/)                            | 一个插件，提供一揽子服务                                     | &hearts; | &hearts; | &hearts; |
+| **f.lux**          | [下载链接](https://justgetflux.com)                          | 护眼神器，随时间的变化而自动调节电脑屏幕亮度，还有不同模式可调节 | &hearts; | &hearts; | &hearts; |
+| **护眼宝**         | [下载链接](http://www.huyanbao.com/)                         | 通过智能调节屏幕色温过滤蓝光的软件，从而保护眼睛             | &hearts; | &hearts; |          |
+| **Wox**            | [下载链接](http://www.wox.one/)                              | 搭配 Python 使用的高效 Windows Launcher                      | &hearts; |          |          |
+| **火柴**           | [下载链接](http://huochaipro.com/)                           | 快速查找文件、打开应用程序、局域网秒传文件、局域网聊天…      | &hearts; | &hearts; |          |

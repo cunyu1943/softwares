@@ -9,7 +9,7 @@
     -   [Gitee](https://gitee.com/cunyu1943/amazing-softwares)
 -   软件列表详情
     -   [Github 软件列表详情](https://github.com/cunyu1943/amazing-softwares/blob/master/softwares.md)
-    -   [Gitee 软件列表详情](https://github.com/cunyu1943/amazing-softwares/blob/master/softwares.md)
+    -   [Gitee 软件列表详情](https://gitee.com/cunyu1943/amazing-softwares/blob/master/softwares.md)
 
 欢迎大家推荐更多各种好玩好用的软件，如果有失效的，一定要及时提交 Issues 哦！
 
