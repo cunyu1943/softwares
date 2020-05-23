@@ -4,8 +4,12 @@
 
 -   项目说明：推荐好玩好用的软件，整理了常用系统及软件下载链接，长期持续更新
 -   项目类型：资料收集
-
--   [软件列表](https://github.com/cunyu1943/amazing-softwares/blob/master/softwares.md)
+-   项目地址
+    -   [Github](https://github.com/cunyu1943/amazing-softwares)
+    -   [Gitee](https://gitee.com/cunyu1943/amazing-softwares)
+-   软件列表详情
+    -   [Github 软件列表详情](https://github.com/cunyu1943/amazing-softwares/blob/master/softwares.md)
+    -   [Gitee 软件列表详情](https://github.com/cunyu1943/amazing-softwares/blob/master/softwares.md)
 
 欢迎大家推荐更多各种好玩好用的软件，如果有失效的，一定要及时提交 Issues 哦！
 
