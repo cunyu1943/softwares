@@ -77,7 +77,7 @@
 
 | 软件名                    | 下载链接                                                | 说明                                                        | Windows | Mac  | Linux |
 | ------------------------- | ------------------------------------------------------- | ----------------------------------------------------------- | ------- | ---- | ----- |
-| **PanDownload**           | [下载链接](http://pandownload.com/)                     | 第三方百度云，不限速，告别等待                              | [x]     |      |       |
+| **PanDownload**           | [下载链接](http://pandownload.com/)                     | 第三方百度云，不限速，告别等待                              | - [x]   |      |       |
 | **Free Download Manager** | [下载链接](https://www.freedownloadmanager.org/zh/)     | 下载工具                                                    |         |      |       |
 | **Motrix**                | [下载链接](https://motrix.app/zh-CN/)                   | 一款全能的下载工具，支持 HTTP、FTP、BT、磁力链、百度网盘等  |         |      |       |
 | **IDM**                   | [下载链接](https://www.internetdownloadmanager.com/)    | 多线程下载工具，搭配Chrome，速度嗖嗖的                      |         |      |       |
