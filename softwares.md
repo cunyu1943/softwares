@@ -6,7 +6,7 @@
 -   [软件系列](#软件系列)
     -   [编程](#编程)
     -   [文字处理](#文字处理)
-    -   [视频/音频](#视频/音频)
+    -   [视频/音频](#视频-音频)
     -   [文件管理](#文件管理)
     -   [下载工具](#下载工具)
     -   [效率神器](#效率神器)
@@ -31,7 +31,7 @@
 
 | 软件名                    | 下载链接                                                            | 说明                                            | Windows | Mac | Linux |
 | ---------------------- | --------------------------------------------------------------- | --------------------------------------------- | ---------------------- | ---------------------- | ---------------------- |
-| **JetBrains ** | [下载链接](https://www.jetbrains.com/products.html) | JetBrains 全家桶，支持各种语言的 IDE | &hearts; | &hearts; | &hearts; |
+| **JetBrains** | [下载链接](https://www.jetbrains.com/products.html) | JetBrains 全家桶，支持各种语言的 IDE | &hearts; | &hearts; | &hearts; |
 | **Eclipse**            | [下载链接](https://www.eclipse.org/downloads/packages/) | Eclipse IDE 系列，主要支持 Java、C、C++、PHP 等 | &hearts; | &hearts; | &hearts; |
 | **Visual Studio**      | [下载链接](https://visualstudio.microsoft.com/zh-hans/) | 不解释，宇宙最强C++ IDE（社区&专业）                        | &hearts; | &hearts; |  |
 | **Code::Blocks**       | [下载链接](http://www.codeblocks.org/)                              | 开源跨平台的免费C、C++、Fortran IDE                     | &hearts; | &hearts; | &hearts; |
