@@ -39,18 +39,20 @@
 | **Visual Studio Code** | [下载链接](https://code.visualstudio.com/?wt.mc_id=vscom_downloads) | 跟 Visual Studio 同出一脉的跨平台代码编辑器                 | &hearts; | &hearts; | &hearts; |
 | **Atom**               | [下载链接](https://mirrors.huaweicloud.com/atom/)                   | Github开发的跨平台代码编辑器，支持丰富插件                      | &hearts; | &hearts; | &hearts; |
 | **Notepad++**          | [下载链接](https://notepad-plus-plus.org/downloads/)                | Windows下文本编辑器，支持完整中文化接口并支持多国语言编写，支持众多计算机程序语言； | &hearts; |  |  |
-| **Sublime Text 3**         | [下载链接](https://www.sublimetext.com/3)                           | 一款流行的代码编辑器软件，可运行在Linux，Windows和Mac OS X       | &hearts; | &hearts; | &hearts; |
+| **Sublime Text 3**         | [下载链接](https://www.sublimetext.com/3)                           | 一款流行的代码编辑器软件       | &hearts; | &hearts; | &hearts; |
 
 ## 文字处理
 
-| 软件名           | 下载链接                                        | 说明                                                         | Windows  | Mac      | Linux    |
-| ---------------- | :---------------------------------------------- | ------------------------------------------------------------ | -------- | -------- | -------- |
-| **GitNote**      | [下载链接](https://gitnoteapp.com/zh/#download) | 跨平台基于 Git 的 Markdown 笔记软件，支持脑图、图床等插件扩展 | &hearts; | &hearts; | &hearts; |
-| **Gridea**       | [下载链接](https://gridea.dev/)                 | 跨平台静态博客写作客户端，搭建属于自己的博客                 | &hearts; | &hearts; | &hearts; |
-| **MarkText**     | [下载链接](https://marktext.app/)               | 跨平台简洁优雅的 Markdown 编辑器                             | &hearts; | &hearts; | &hearts; |
-| **Typora**       | [下载链接](https://www.typora.io/)              | 跨平台所见即所得的 Markdown 编辑器                           | &hearts; | &hearts; | &hearts; |
-| **Sumatra PDF**  | [下载链接](https://www.sumatrapdfreader.org)    | 轻量级 PDF 阅读器                                            | &hearts; |          |          |
-| **知云文献翻译** | [下载链接](http://i.zhiyunwenxian.cn/)          | 专为研究生服务的学术文献翻译神器，翻译精准高效               | &hearts; |          |          |
+| 软件名           | 下载链接                                                     | 说明                                                         | Windows  | Mac      | Linux    |
+| ---------------- | :----------------------------------------------------------- | ------------------------------------------------------------ | -------- | -------- | -------- |
+| **GitNote**      | [下载链接](https://gitnoteapp.com/zh/#download)              | 跨平台基于 Git 的 Markdown 笔记软件，支持脑图、图床等插件扩展 | &hearts; | &hearts; | &hearts; |
+| **Gridea**       | [下载链接](https://gridea.dev/)                              | 跨平台静态博客写作客户端，搭建属于自己的博客                 | &hearts; | &hearts; | &hearts; |
+| **MarkText**     | [下载链接](https://marktext.app/)                            | 跨平台简洁优雅的 Markdown 编辑器                             | &hearts; | &hearts; | &hearts; |
+| **Typora**       | [下载链接](https://www.typora.io/)                           | 跨平台所见即所得的 Markdown 编辑器                           | &hearts; | &hearts; | &hearts; |
+| **荆棘写作**     | [下载链接](https://github.com/GreathingsDesign/Thorn-Writing/releases) | 写作，本就该如此高效，你所期待的下一代跨平台写作应用         | &hearts; | &hearts; |          |
+| **写作助手**     | [下载链接](https://github.com/ystcode/BlogHelper/releases)   | 一键发布本地文章到知乎、简书、博客园、CSDN、掘金、SegmentFault (思否)、开源中国等平台 | &hearts; | &hearts; | &hearts; |
+| **Sumatra PDF**  | [下载链接](https://www.sumatrapdfreader.org)                 | 轻量级 PDF 阅读器                                            | &hearts; |          |          |
+| **知云文献翻译** | [下载链接](http://i.zhiyunwenxian.cn/)                       | 专为研究生服务的学术文献翻译神器，翻译精准高效               | &hearts; |          |          |
 
 ## 视频/音频
 
