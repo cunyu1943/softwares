@@ -27,6 +27,16 @@
 
 # 软件系列
 
+## 终端工具
+
+| 软件名        | 下载链接                                                     | 说明                                                         | Windows  | Mac  | Linux |
+| ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | ---- | ----- |
+| **MobaXterm** | [MobaXterm](https://mobaxterm.mobatek.net/)                  | Windows 增强终端，支持 SSH，Linux 多种命令                   | &hearts; |      |       |
+| **Cmder**     | [Cmder](https://cmder.net/)                                  | 终端模拟器， 用于替换windows自带的终端，支持不同的标签页中同时连接不同的底层Shell | &hearts; |      |       |
+| **XShell**    | [XShell](https://www.netsarang.com/zh/free-for-home-school/) | 自称业界最强大的SSH客户机                                    | &hearts; |      |       |
+
+
+
 ## 编程
 
 | 软件名                    | 下载链接                                                            | 说明                                            | Windows | Mac | Linux |
