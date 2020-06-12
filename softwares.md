@@ -13,17 +13,17 @@
 
 # 系统系列
 
-| 系统名           | 下载链接                                               | 说明                                     |
-| ---------------- | ------------------------------------------------------ | ---------------------------------------- |
-| **Ubuntu**       | [下载链接](https://cn.ubuntu.com/download)             | Ubuntu                                   |
-| **Deepin**       | [下载链接](https://www.deepin.org/download/)           | 深度操作系统，个人认为国内最佳           |
-| **Archlinux**    | [下载链接](https://mirrors.huaweicloud.com/archlinux/) |                                          |
-| **Centos**       | [下载链接](https://www.centos.org/download/)           |                                          |
-| **Debian**       | [下载链接](https://www.debian.org/distrib/)            |                                          |
-| **Ubuntu Kylin** | [下载链接](http://www.ubuntukylin.com/downloads/)      | 基于 Ubuntu 的国产化系统                 |
-| **Manjora**      | [下载链接](https://manjaro.org/download/)              | 最受欢迎的Linux发行版之一，基于Archlinux |
-| **Linut Mint**   | [下载链接](https://www.linuxmint.com/download.php)     | 基于 Ubuntu，对新手很友好                |
-| **Elementary**   | [下载链接](https://elementary.io/)                     | 号称最美的 Linux 发行版                  |
+| 系统名            | 下载链接                                               | 说明                                         |
+| ----------------- | ------------------------------------------------------ | -------------------------------------------- |
+| **Ubuntu**        | [下载链接](https://cn.ubuntu.com/download)             | Ubuntu                                       |
+| **Deepin**        | [下载链接](https://www.deepin.org/download/)           | 深度操作系统，个人认为国内最佳               |
+| **Archlinux**     | [下载链接](https://mirrors.huaweicloud.com/archlinux/) | 可定制自由度最高的 Linux，不过新手一般玩不来 |
+| **Centos**        | [下载链接](https://www.centos.org/download/)           | 可以看做 RedHat 的免费版，稳定压倒一切       |
+| **Debian**        | [下载链接](https://www.debian.org/distrib/)            |                                              |
+| **Ubuntu Kylin**  | [下载链接](http://www.ubuntukylin.com/downloads/)      | 基于 Ubuntu 的国产化系统                     |
+| **Manjora**       | [下载链接](https://manjaro.org/download/)              | 最受欢迎的Linux发行版之一，基于 Archlinux    |
+| **Linut Mint**    | [下载链接](https://www.linuxmint.com/download.php)     | 基于 Ubuntu，对新手很友好                    |
+| **Elementary OS** | [下载链接](https://elementary.io/)                     | 号称最美的 Linux 发行版                      |
 
 # 软件系列
 
@@ -34,6 +34,7 @@
 | **MobaXterm** | [MobaXterm](https://mobaxterm.mobatek.net/)                  | Windows 增强终端，支持 SSH，Linux 多种命令                   | &hearts; |      |       |
 | **Cmder**     | [Cmder](https://cmder.net/)                                  | 终端模拟器， 用于替换windows自带的终端，支持不同的标签页中同时连接不同的底层Shell | &hearts; |      |       |
 | **XShell**    | [XShell](https://www.netsarang.com/zh/free-for-home-school/) | 自称业界最强大的SSH客户机                                    | &hearts; |      |       |
+| **Windows Terminal**     | [Windows Terminal](https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)                                  | 巨硬自家出品的一款新式、快速、高效、强大且高效的终端应用程序，适用于命令行工具和命令提示符，PowerShell和 WSL 等 Shell 用户。主要功能包括多个选项卡、窗格、Unicode、和 UTF-8 字符支持，GPU 加速文本渲染引擎以及自定义主题、样式和配置。 | &hearts; |      |       |
 
 
 
