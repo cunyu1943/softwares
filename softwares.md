@@ -55,15 +55,15 @@
 
 ## 写作笔记工具
 
-| 软件名       | 下载链接                                                     | 说明                                                         | Windows  | Mac      | Linux    |
-| ------------ | :----------------------------------------------------------- | ------------------------------------------------------------ | -------- | -------- | -------- |
-| **GitNote**  | [下载链接](https://gitnoteapp.com/zh/#download)              | 跨平台基于 Git 的 Markdown 笔记软件，支持脑图、图床等插件扩展 | &hearts; | &hearts; | &hearts; |
-| **Gridea**   | [下载链接](https://gridea.dev/)                              | 跨平台静态博客写作客户端，搭建属于自己的博客                 | &hearts; | &hearts; | &hearts; |
-| **MarkText** | [下载链接](https://marktext.app/)                            | 跨平台简洁优雅的 Markdown 编辑器                             | &hearts; | &hearts; | &hearts; |
-| **Typora**   | [下载链接](https://www.typora.io/)                           | 跨平台所见即所得的 Markdown 编辑器                           | &hearts; | &hearts; | &hearts; |
-| **荆棘写作** | [下载链接](https://github.com/GreathingsDesign/Thorn-Writing/releases) | 写作，本就该如此高效，你所期待的下一代跨平台写作应用         | &hearts; | &hearts; |          |
-| **写作助手** | [下载链接](https://github.com/ystcode/BlogHelper/releases)   | 一键发布本地文章到知乎、简书、博客园、CSDN、掘金、SegmentFault (思否)、开源中国等平台 | &hearts; | &hearts; | &hearts; |
-| **语雀**     | [下载链接](https://www.yuque.com/install/desktop)            | 面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同 | &hearts; | &hearts; |          |
+| 软件名           | 下载链接                                                     | 说明                                                         | Windows      | Mac          | Linux    |
+| ---------------- | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------ | ------------ | -------- |
+| **GitNote**      | [下载链接](https://gitnoteapp.com/zh/#download)              | 跨平台基于 Git 的 Markdown 笔记软件，支持脑图、图床等插件扩展 | &hearts;     | &hearts;     | &hearts; |
+| **Gridea**       | [下载链接](https://gridea.dev/)                              | 跨平台静态博客写作客户端，搭建属于自己的博客                 | &hearts;     | &hearts;     | &hearts; |
+| **MarkText**     | [下载链接](https://marktext.app/)                            | 跨平台简洁优雅的 Markdown 编辑器                             | &hearts;     | &hearts;     | &hearts; |
+| **Typora**       | [下载链接](https://www.typora.io/)                           | 跨平台所见即所得的 Markdown 编辑器                           | &hearts;     | &hearts;     | &hearts; |
+| ~~**荆棘写作**~~ | ~~[下载链接](https://github.com/GreathingsDesign/Thorn-Writing/releases)~~ | ~~写作，本就该如此高效，你所期待的下一代跨平台写作应用~~     | ~~&hearts;~~ | ~~&hearts;~~ |          |
+| **写作助手**     | [下载链接](https://github.com/ystcode/BlogHelper/releases)   | 一键发布本地文章到知乎、简书、博客园、CSDN、掘金、SegmentFault (思否)、开源中国等平台 | &hearts;     | &hearts;     | &hearts; |
+| **语雀**         | [下载链接](https://www.yuque.com/install/desktop)            | 面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同 | &hearts;     | &hearts;     |          |
 
 ## PDF 查看
 
@@ -120,11 +120,12 @@
 | **冰点下载**    | [下载链接](http://www.bingdian001.com/?p=30)         | 无需积分自由下载百度、豆丁、丁香、MBALib、Book118 等文库文档 | &hearts; |          |          |
 ## 浏览器插件
 
-| 软件名             | 下载链接                                                     | 说明                                           | Windows  | Mac      | Linux    |
-| ------------------ | ------------------------------------------------------------ | ---------------------------------------------- | -------- | -------- | -------- |
-| **谷歌访问助手**   | [下载链接](https://github-production-release-asset-2e65be.s3.amazonaws.com/118309444/d2dc5000-024a-11e9-849a-659b99693212?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20191010%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191010T085834Z&X-Amz-Expires=300&X-Amz-Signature=cbf63ed755b38b2d3d523a6b4099e68cab5fe1de5e472f1ab3871f41d4328775&X-Amz-SignedHeaders=host&actor_id=22308895&response-content-disposition=attachment%3B%20filename%3Dgoogle-access-helper-2.3.0.crx&response-content-type=application%2Foctet-stream) | 提供访问 Google 搜索等服务                     | &hearts; | &hearts; | &hearts; |
-| **PP谷歌访问助手** | [下载链接](https://chrome.zzzmh.cn/info?token=kahndhhhcnignmbbpiobmdlgjhgfkfil) | 类似学谷歌访问助手，提供访问 Google 搜索等服务 | &hearts; | &hearts; | &hearts; |
-| **集装箱**         | [下载链接](http://one.newday.me/)                            | 一个插件，提供一揽子服务                       | &hearts; | &hearts; | &hearts; |
+| 软件名               | 下载链接                                                     | 说明                                                         | Windows  | Mac      | Linux    |
+| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | -------- | -------- |
+| **谷歌访问助手**     | [下载链接](https://chrome.zzzmh.cn/info?token=gocklaboggjfkolaknpbhddbaopcepfp) | 提供访问 Google 搜索等服务                                   | &hearts; | &hearts; | &hearts; |
+| **PP谷歌访问助手**   | [下载链接](https://chrome.zzzmh.cn/info?token=kahndhhhcnignmbbpiobmdlgjhgfkfil) | 类似学谷歌访问助手，提供访问 Google 搜索等服务               | &hearts; | &hearts; | &hearts; |
+| **集装箱**           | [下载链接](http://one.newday.me/)                            | 一个插件，提供一揽子服务                                     | &hearts; | &hearts; | &hearts; |
+| **MONKNOW 新标签页** | [下载链接](https://chrome.zzzmh.cn/info?token=lnbjajkbekhkgablenknhapphbdbldeh) | 美观且允许高度自定义的新标签页扩展插件，支持支持网站网址URL分组管理，数据实时云同步，黑暗深色夜间主题模式 | &hearts; | &hearts; | &hearts; |
 
 ## 护眼工具
 
