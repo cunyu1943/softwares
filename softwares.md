@@ -65,6 +65,17 @@
 | **写作助手**     | [下载链接](https://github.com/ystcode/BlogHelper/releases)   | 一键发布本地文章到知乎、简书、博客园、CSDN、掘金、SegmentFault (思否)、开源中国等平台 | &hearts;     | &hearts;     | &hearts; |
 | **语雀**         | [下载链接](https://www.yuque.com/install/desktop)            | 面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同 | &hearts;     | &hearts;     |          |
 
+## 办公
+
+| 软件名           | 下载链接                                         | 说明                                      | Windows  | Mac      | Linux |
+| ---------------- | ------------------------------------------------ | ----------------------------------------- | -------- | -------- | ----- |
+| **方方格子**     | [下载链接](http://ffcell.com/home/products.aspx) | Excel工具箱                               | &hearts; |          |       |
+| **万彩办公大师** | [下载链接](http://www.wofficebox.com/)           | 包含60+个无任何广告及插件的免费办公小工具 | &hearts; |          |       |
+| **iSlide**       | [下载链接](https://www.islide.cc/download)       | 基于PowerPoint的插件工具                  | &hearts; | &hearts; |       |
+| **石墨文档**     | [下载工具](https://shimo.im/download)            | 在线协同文档办公软件                      | &hearts; | &hearts; |       |
+
+
+
 ## PDF 查看
 
 | 软件名                           | 下载链接                                            | 说明                                                       | Windows  | Mac      | Linux    |
@@ -156,9 +167,11 @@
 
 ## 小众软件
 
-| 软件名           | 下载链接                                     | 说明                                      | Windows  | Mac  | Linux |
-| ---------------- | -------------------------------------------- | ----------------------------------------- | -------- | ---- | ----- |
-| **Ditto**        | [下载链接](https://ditto-cp.sourceforge.io/) | 剪贴板工具，效率必备                      | &hearts; |      |       |
-| **天若OCR**      | [下载链接](https://tianruoocr.cn/)           | 文本识别                                  | &hearts; |      |       |
-| **QuickLook**    | [下载链接](https://pooi.moe/QuickLook/)      | 空格预览文件电脑工具                      | &hearts; |      |       |
-| **万彩办公大师** | [下载链接](http://www.wofficebox.com/)       | 包含60+个无任何广告及插件的免费办公小工具 | &hearts; |      |       |
+| 软件名        | 下载链接                                         | 说明                                | Windows  | Mac      | Linux |
+| ------------- | ------------------------------------------------ | ----------------------------------- | -------- | -------- | ----- |
+| **Ditto**     | [下载链接](https://ditto-cp.sourceforge.io/)     | 剪贴板工具，效率必备                | &hearts; |          |       |
+| **天若OCR**   | [下载链接](https://tianruoocr.cn/)               | 文本识别                            | &hearts; |          |       |
+| **QuickLook** | [下载链接](https://pooi.moe/QuickLook/)          | 空格预览文件电脑工具                | &hearts; |          |       |
+| **Quicker**   | [下载链接](https://getquicker.net/)              | 为常用操作建立捷径，让效率触手可及! | &hearts; |          |       |
+| **格式工厂**  | [下载链接](http://www.pcgeshi.com/download.html) | 音乐、视频、图片等格式转换软件      | &hearts; |          |       |
+| **Eagle**     | [下载链接](https://eagle.cool/)                  | 管理图片、视频、音频素材            | &hearts; | &hearts; |       |
