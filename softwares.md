@@ -179,11 +179,13 @@
 
 ## 小众软件
 
-| 软件名        | 下载链接                                         | 说明                                | Windows | Mac  | Linux |
-| ------------- | ------------------------------------------------ | ----------------------------------- | ------- | ---- | ----- |
-| **Ditto**     | [下载链接](https://ditto-cp.sourceforge.io/)     | 剪贴板工具，效率必备                | ❤       |      |       |
-| **天若OCR**   | [下载链接](https://tianruoocr.cn/)               | 文本识别                            | ❤       |      |       |
-| **QuickLook** | [下载链接](https://pooi.moe/QuickLook/)          | 空格预览文件电脑工具                | ❤       |      |       |
-| **Quicker**   | [下载链接](https://getquicker.net/)              | 为常用操作建立捷径，让效率触手可及! | ❤       |      |       |
-| **格式工厂**  | [下载链接](http://www.pcgeshi.com/download.html) | 音乐、视频、图片等格式转换软件      | ❤       |      |       |
-| **Eagle**     | [下载链接](https://eagle.cool/)                  | 管理图片、视频、音频素材            | ❤       | ❤    |       |
+| 软件名        | 下载链接                                           | 说明                                | Windows | Mac  | Linux |
+| ------------- | -------------------------------------------------- | ----------------------------------- | ------- | ---- | ----- |
+| **Ditto**     | [下载链接](https://ditto-cp.sourceforge.io/)       | 剪贴板工具，效率必备                | ❤       |      |       |
+| **天若OCR**   | [下载链接](https://tianruoocr.cn/)                 | 文本识别                            | ❤       |      |       |
+| **QuickLook** | [下载链接](https://pooi.moe/QuickLook/)            | 空格预览文件电脑工具                | ❤       |      |       |
+| **Quicker**   | [下载链接](https://getquicker.net/)                | 为常用操作建立捷径，让效率触手可及! | ❤       |      |       |
+| **格式工厂**  | [下载链接](http://www.pcgeshi.com/download.html)   | 音乐、视频、图片等格式转换软件      | ❤       |      |       |
+| **Eagle**     | [下载链接](https://eagle.cool/)                    | 管理图片、视频、音频素材            | ❤       | ❤    |       |
+| **ReNamer**   | [下载链接](https://www.den4b.com/products/renamer) | 强大的批量重命名工具                | ❤       |      |       |
+
