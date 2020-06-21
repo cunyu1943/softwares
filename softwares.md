@@ -100,8 +100,9 @@
 | -------------- | ------------------------------------------------------ | ------------------------------------------------------------ | ------- | ---- | ----- |
 | **OpenShot**   | [下载链接](https://www.openshot.org/zh-hans/download/) | 免费视频编辑器                                               | ❤       | ❤    | ❤     |
 | **Kdenlive**   | [下载链接](https://kdenlive.org/en/download/)          | 免费视频编辑器                                               | ❤       | ❤    | ❤     |
-| **PotPlayer**  | [下载链接](https://potplayer.org/)                     | 强大的视频播放器                                             | ❤       |      |       |
+| **ArcTime**    | [下载链接](https://arctime.org/download.html)          | 强大的视频播放器                                             | ❤       | ❤    | ❤     |
 | **EV 录屏**    | [下载链接](https://www.ieway.cn/evcapture.html)        | 免费无水印，集视频录制与直播功能于一身的桌面录屏软件，可实现分屏录制、实时按键显示、录屏涂鸦等功能 | ❤       | ❤    |       |
+| **PotPlayer**  | [下载链接](https://potplayer.org/)                     | 强大的视频播放器                                             | ❤       |      |       |
 | **射手影音**   | [下载链接](http://www.splayer.org/zh-Hans/)            | 智能翻译播放器                                               | ❤       | ❤    |       |
 | **QQ影音**     | [下载链接](https://player.qq.com/)                     | QQ 出品的本地播放器                                          | ❤       | ❤    |       |
 | **foobar2000** | [下载链接](http://www.foobar2000.org/download)         | 免费的多功能音频播放器                                       | ❤       | ❤    |       |
@@ -135,7 +136,7 @@
 | **IDM**         | [下载链接](https://www.internetdownloadmanager.com/) | 多线程下载工具，搭配 Chrome，速度嗖嗖的                      | ❤       |      |       |
 | **XDown**       | [下载链接](https://xdown.org/)                       | 专业的文件下载与分享工具，免费无广告的 IDM / torrent 合成体  | ❤       |      |       |
 | **EagleGet**    | [下载链接](http://www.eagleget.com/download/)        | 优秀的免费在线视频下载软件，亦是代替浏览器自带下载功能的不二选择 | ❤       |      |       |
-| **qBittorrent** | [下载链接](https://www.qbittorrent.org/download.php) | 支持 BT 种子 .torrent 以及 Magnet 磁力链接下载；支持包括 DHT、Peer Exchange、Full encryption 等多种下载技术 | ❤       | ❤    | ❤     |
+| **qBittorrent** | [下载链接](https://www.qbittorrent.org/download.php) | 支持BT 种子 .torrent 以及 Magnet 磁力链接下载；支持包括 DHT、Peer Exchange、Full encryption 等多种下载技术 | ❤       | ❤    | ❤     |
 | **硕鼠下载器**  | [下载链接](http://download.flvcd.com/)               | 视频下载神器！很多视频网站都能下载！                         | ❤       |      |       |
 | **维棠**        | [下载链接](http://www.vidown.cn/)                    | 最强悍的视频下载功能，200多个网站想下就下，贴心的追剧服务，海量视频资源，实时更新 | ❤       |      |       |
 | **冰点下载**    | [下载链接](http://www.bingdian001.com/?p=30)         | 无需积分自由下载百度、豆丁、丁香、MBALib、Book118 等文库文档 | ❤       |      |       |
@@ -147,6 +148,7 @@
 | **PP谷歌访问助手**   | [下载链接](https://chrome.zzzmh.cn/info?token=kahndhhhcnignmbbpiobmdlgjhgfkfil) | 类似学谷歌访问助手，提供访问 Google 搜索等服务               | ❤       | ❤    | ❤     |
 | **集装箱**           | [下载链接](http://one.newday.me/)                            | 一个插件，提供一揽子服务                                     | ❤       | ❤    | ❤     |
 | **MONKNOW 新标签页** | [下载链接](https://chrome.zzzmh.cn/info?token=lnbjajkbekhkgablenknhapphbdbldeh) | 美观且允许高度自定义的新标签页扩展插件，支持支持网站网址URL分组管理，数据实时云同步，黑暗深色夜间主题模式 | ❤       | ❤    | ❤     |
+| **取字**             | [下载链接](http://willingstudio.com/)                        | 具有通识化场景的 OCR 识别功能浏览器插件快速框选，可精确识别图片或者视频中的文本 | ❤       | ❤    | ❤     |
 
 ## 护眼工具
 
