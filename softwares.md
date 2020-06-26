@@ -3,6 +3,8 @@
 # 目录
 
 -   [系统系列](#系统系列)
+    -   [系统镜像](#系统镜像)
+    -   [刻录工具](#刻录工具)
 -   [软件系列](#软件系列)
     -   [终端工具](#终端工具)
     -   [编程](#编程)
@@ -30,7 +32,7 @@
 | **Deepin**        | [下载链接](https://www.deepin.org/download/)           | 深度操作系统，个人认为国内最佳               |
 | **Archlinux**     | [下载链接](https://mirrors.huaweicloud.com/archlinux/) | 可定制自由度最高的 Linux，不过新手一般玩不来 |
 | **Centos**        | [下载链接](https://www.centos.org/download/)           | 可以看做 RedHat 的免费版，稳定压倒一切       |
-| **Debian**        | [下载链接](https://www.debian.org/distrib/)            |                                              |
+| **Debian**        | [下载链接](https://www.debian.org/distrib/)            | Debian，稳定安全                             |
 | **Ubuntu Kylin**  | [下载链接](http://www.ubuntukylin.com/downloads/)      | 基于 Ubuntu 的国产化系统                     |
 | **Manjora**       | [下载链接](https://manjaro.org/download/)              | 最受欢迎的Linux发行版之一，基于 Archlinux    |
 | **Linut Mint**    | [下载链接](https://www.linuxmint.com/download.php)     | 基于 Ubuntu，对新手很友好                    |
