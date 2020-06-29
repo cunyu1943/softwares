@@ -48,6 +48,7 @@
 | **微 PE 工具箱** | [下载链接](http://www.wepe.com.cn/download.html)      | 最好用的 WinPE 装机维护工具                                  | ❤       |      |       |
 | **UltraISO**     | [下载链接](https://cn.ultraiso.net/xiazai.html)       | UltraISO软碟通是一款功能强大、方便实用、老牌优秀的光盘映像文件制作/编辑/转换工具 | ❤       |      |       |
 | **WoeUSB**       | [下载链接](https://github.com/slacka/WoeUSB/releases) | Linux 下的一款镜像制作软件                                   |         |      | ❤     |
+| **BurnAware**    | [下载链接](https://www.burnaware.com/download.html)   | BurnAware 是一个功能齐全的刻录软件，可以创建所有类型的CD，DVD和蓝光光盘，包括M-Disc | ❤       |      |       |
 
 
 
