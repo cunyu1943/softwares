@@ -1,5 +1,7 @@
 # amazing-softwares
 
+![GitHub forks](https://img.shields.io/github/forks/cunyu1943/amazing-softwares?color=G&label=Fork) ![GitHub stars](https://img.shields.io/github/stars/cunyu1943/amazing-softwares?color=G&label=Stars)
+
 ## 📝 简介
 
 -   项目说明：推荐好玩好用的软件，整理了常用系统及软件下载链接，长期持续更新
