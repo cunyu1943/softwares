@@ -134,17 +134,18 @@
 
 ### 🍍 下载神器
 
-| 软件            | 链接                                             | 说明                                                         | Windows | MacOS | Linux |
-| --------------- | ------------------------------------------------ | ------------------------------------------------------------ | ------- | ----- | ----- |
-| **FDM**         | [链接](https://www.freedownloadmanager.org/zh/)  | 下载工具                                                     | 💖       | 💖     | 💖     |
-| **Motrix**      | [链接](https://motrix.app/zh-CN/)                | 一款全能的下载工具，支持 HTTP、FTP、BT、磁力链、百度网盘等   | 💖       | 💖     | 💖     |
-| **IDM**         | [链接](https://www.internetdownloadmanager.com/) | 多线程下载工具，搭配 Chrome，速度嗖嗖的                      | 💖       |       |       |
-| **XDown**       | [链接](https://xdown.org/)                       | 专业的文件下载与分享工具，免费无广告的 IDM / torrent 合成体  | 💖       |       |       |
-| **EagleGet**    | [链接](http://www.eagleget.com/download/)        | 优秀的免费在线视频下载软件，亦是代替浏览器自带下载功能的不二选择 | 💖       |       |       |
-| **qBittorrent** | [链接](https://www.qbittorrent.org/download.php) | 支持BT 种子 .torrent 以及 Magnet 磁力链接下载；支持包括 DHT、Peer Exchange、Full encryption 等多种下载技术 | 💖       | 💖     | 💖     |
-| **硕鼠下载器**  | [链接](http://download.flvcd.com/)               | 视频下载神器！很多视频网站都能下载！                         | 💖       |       |       |
-| **维棠**        | [链接](http://www.vidown.cn/)                    | 最强悍的视频下载功能，200多个网站想下就下，贴心的追剧服务，海量视频资源，实时更新 | 💖       |       |       |
-| **冰点下载**    | [链接](http://www.bingdian001.com/?p=30)         | 无需积分自由下载百度、豆丁、丁香、MBALib、Book118 等文库文档 | 💖       |       |       |
+| 软件            | 链接                                                      | 说明                                                         | Windows | MacOS | Linux |
+| --------------- | --------------------------------------------------------- | ------------------------------------------------------------ | ------- | ----- | ----- |
+| **FDM**         | [链接](https://www.freedownloadmanager.org/zh/)           | 下载工具                                                     | 💖       | 💖     | 💖     |
+| **Motrix**      | [链接](https://motrix.app/zh-CN/)                         | 一款全能的下载工具，支持 HTTP、FTP、BT、磁力链、百度网盘等   | 💖       | 💖     | 💖     |
+| **IDM**         | [链接](https://www.internetdownloadmanager.com/)          | 多线程下载工具，搭配 Chrome，速度嗖嗖的                      | 💖       |       |       |
+| **NDM**         | [链接](https://www.neatdownloadmanager.com/index.php/en/) | 类似于 IDM 的多线程下载工具，搭配 Chrome，速度嗖嗖的，       | 💖       | 💖     |       |
+| **XDown**       | [链接](https://xdown.org/)                                | 专业的文件下载与分享工具，免费无广告的 IDM / torrent 合成体  | 💖       |       |       |
+| **EagleGet**    | [链接](http://www.eagleget.com/download/)                 | 优秀的免费在线视频下载软件，亦是代替浏览器自带下载功能的不二选择 | 💖       |       |       |
+| **qBittorrent** | [链接](https://www.qbittorrent.org/download.php)          | 支持BT 种子 .torrent 以及 Magnet 磁力链接下载；支持包括 DHT、Peer Exchange、Full encryption 等多种下载技术 | 💖       | 💖     | 💖     |
+| **硕鼠下载器**  | [链接](http://download.flvcd.com/)                        | 视频下载神器！很多视频网站都能下载！                         | 💖       |       |       |
+| **维棠**        | [链接](http://www.vidown.cn/)                             | 最强悍的视频下载功能，200多个网站想下就下，贴心的追剧服务，海量视频资源，实时更新 | 💖       |       |       |
+| **冰点下载**    | [链接](http://www.bingdian001.com/?p=30)                  | 无需积分自由下载百度、豆丁、丁香、MBALib、Book118 等文库文档 | 💖       |       |       |
 
 ### 🥕 浏览器插件
 
