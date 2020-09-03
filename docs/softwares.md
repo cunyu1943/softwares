@@ -93,12 +93,13 @@
 
 ## 办公
 
-| 软件名           | 下载链接                                         | 说明                                      | Windows | Mac  | Linux |
-| ---------------- | ------------------------------------------------ | ----------------------------------------- | ------- | ---- | ----- |
-| **方方格子**     | [下载链接](http://ffcell.com/home/products.aspx) | Excel工具箱                               | ❤       |      |       |
-| **万彩办公大师** | [下载链接](http://www.wofficebox.com/)           | 包含60+个无任何广告及插件的免费办公小工具 | ❤       |      |       |
-| **iSlide**       | [下载链接](https://www.islide.cc/download)       | 基于PowerPoint的插件工具                  | ❤       | ❤    |       |
-| **石墨文档**     | [下载工具](https://shimo.im/download)            | 在线协同文档办公软件                      | ❤       | ❤    |       |
+| 软件名               | 下载链接                                         | 说明                                      | Windows | Mac  | Linux |
+| -------------------- | ------------------------------------------------ | ----------------------------------------- | ------- | ---- | ----- |
+| **方方格子**         | [下载链接](http://ffcell.com/home/products.aspx) | Excel工具箱                               | ❤       |      |       |
+| **万彩办公大师**     | [下载链接](http://www.wofficebox.com/)           | 包含60+个无任何广告及插件的免费办公小工具 | ❤       |      |       |
+| **iSlide**           | [下载链接](https://www.islide.cc/download)       | 基于PowerPoint的插件工具                  | ❤       | ❤    |       |
+| **石墨文档**         | [下载链接](https://shimo.im/download)            | 在线协同文档办公软件                      | ❤       | ❤    |       |
+| **Office Tool Plus** | [下载链接](https://otp.landian.vip/zh-cn/)       | https://otp.landian.vip/zh-cn/            | ❤       |      |       |
 
 
 
