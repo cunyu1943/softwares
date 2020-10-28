@@ -90,20 +90,22 @@
 | ~~**荆棘写作**~~ | ~~[下载链接](https://github.com/GreathingsDesign/Thorn-Writing/releases)~~ | ~~写作，本就该如此高效，你所期待的下一代跨平台写作应用~~     | ~~❤~~   | ~~❤~~ |       |
 | **写作助手**     | [下载链接](https://github.com/ystcode/BlogHelper/releases)   | 一键发布本地文章到知乎、简书、博客园、CSDN、掘金、SegmentFault (思否)、开源中国等平台 | ❤       | ❤     | ❤     |
 | **语雀**         | [下载链接](https://www.yuque.com/install/desktop)            | 面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同 | ❤       | ❤     |       |
+| **印象笔记**     | [下载链接](https://www.yinxiang.com/)                        | 风格简洁大气，裁剪、搜索、标签等功能十分 nice                | ❤       | ❤     |       |
+| **有道云笔记**   | [下载链接](http://notesandbox.youdao.com/index.html)         | 免费 3G 超大空间，网易的良心产品之一                         | ❤       | ❤     |       |
 
 ## 办公
 
-| 软件名               | 下载链接                                         | 说明                                      | Windows | Mac  | Linux |
-| -------------------- | ------------------------------------------------ | ----------------------------------------- | ------- | ---- | ----- |
-| **方方格子**         | [下载链接](http://ffcell.com/home/products.aspx) | Excel工具箱                               | ❤       |      |       |
-| **万彩办公大师**     | [下载链接](http://www.wofficebox.com/)           | 包含60+个无任何广告及插件的免费办公小工具 | ❤       |      |       |
-| **iSlide**           | [下载链接](https://www.islide.cc/download)       | 基于PowerPoint的插件工具                  | ❤       | ❤    |       |
-| **石墨文档**         | [下载链接](https://shimo.im/download)            | 在线协同文档办公软件                      | ❤       | ❤    |       |
-| **Office Tool Plus** | [下载链接](https://otp.landian.vip/zh-cn/)       | https://otp.landian.vip/zh-cn/            | ❤       |      |       |
+| 软件名               | 下载链接                                         | 说明                                                     | Windows | Mac  | Linux |
+| -------------------- | ------------------------------------------------ | -------------------------------------------------------- | ------- | ---- | ----- |
+| **方方格子**         | [下载链接](http://ffcell.com/home/products.aspx) | Excel工具箱                                              | ❤       |      |       |
+| **万彩办公大师**     | [下载链接](http://www.wofficebox.com/)           | 包含60+个无任何广告及插件的免费办公小工具                | ❤       |      |       |
+| **iSlide**           | [下载链接](https://www.islide.cc/download)       | 基于PowerPoint的插件工具                                 | ❤       | ❤    |       |
+| **石墨文档**         | [下载链接](https://shimo.im/download)            | 在线协同文档办公软件                                     | ❤       | ❤    |       |
+| **Office Tool Plus** | [下载链接](https://otp.landian.vip/zh-cn/)       | 基于 Office 部署工具 (ODT) 打造，可以很轻松地部署 Office | ❤       |      |       |
 
 
 
-## PDF 查看
+## 电子文档查看
 
 | 软件名                           | 下载链接                                            | 说明                                                       | Windows | Mac  | Linux |
 | -------------------------------- | --------------------------------------------------- | ---------------------------------------------------------- | ------- | ---- | ----- |
@@ -112,6 +114,7 @@
 | **知云文献翻译**                 | [下载链接](http://i.zhiyunwenxian.cn/)              | 专为研究生服务的学术文献翻译神器，翻译精准高效             | ❤       |      |       |
 | **福昕阅读器**                   | [下载链接](https://www.foxitsoftware.cn/downloads/) | 一款功能强大的PDF阅读器，支持查看、注释、填写和签署PDF文件 | ❤       | ❤    | ❤     |
 | **万兴 PDF 专家**                | [下载链接](https://pdf.wondershare.cn/)             | 秒会的全能PDF编辑神器                                      | ❤       | ❤    |       |
+| **Calibre**                      | [下载链接](https://calibre-ebook.com/)              | 电子书查看器                                               | ❤       | ❤    | ❤     |
 
 ## 视频/音频
 
@@ -218,4 +221,5 @@
 | **格式工厂**  | [下载链接](http://www.pcgeshi.com/download.html)   | 音乐、视频、图片等格式转换软件      | ❤       |      |       |
 | **Eagle**     | [下载链接](https://eagle.cool/)                    | 管理图片、视频、音频素材            | ❤       | ❤    |       |
 | **ReNamer**   | [下载链接](https://www.den4b.com/products/renamer) | 强大的批量重命名工具                | ❤       |      |       |
+| **MouseInc**  | [下载链接](https://shuax.com/project/mouseinc/)    | 小巧好用的全局鼠标手势              | ❤       |      |       |
 
