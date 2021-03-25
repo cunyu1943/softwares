@@ -2,6 +2,18 @@
 
 ![GitHub forks](https://img.shields.io/github/forks/cunyu1943/amazing-softwares?color=G&label=Fork) ![GitHub stars](https://img.shields.io/github/stars/cunyu1943/amazing-softwares?color=G&label=Stars)
 
+
+
+>   🎈 持续更新 ~
+
+我的其他项目，欢迎 **Star** 收藏：
+
+| CS-Docs                                                      | amazing-websites                                             | amazing-books                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![cs-docs](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=cs-docs&theme=dark)](https://github.com/cunyu1943/cs-docs) | [![amazing-websites](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-websites&theme=dark)](https://github.com/cunyu1943/amazing-websites) | [![amazing-books](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-books&theme=dark)](https://github.com/cunyu1943/amazing-books) |
+
+
+
 ## 🚩 简介
 
 -   项目说明：推荐好玩好用的软件，整理了常用系统及软件链接，长期持续更新
@@ -71,6 +83,7 @@
 | **Atom**               | [链接](https://mirrors.huaweicloud.com/atom/)                | Github开发的跨平台代码编辑器，支持丰富插件                   | 💖       | 💖     | 💖     |
 | **Notepad++**          | [链接](https://notepad-plus-plus.org/downloads/)             | Windows下文本编辑器，支持完整中文化接口并支持多国语言编写，支持众多计算机程序语言； | 💖       |       |       |
 | **Sublime Text 3**     | [链接](https://www.sublimetext.com/3)                        | 一款流行的代码编辑器软件                                     | 💖       | 💖     | 💖     |
+| **EditPlus**           | [链接](https://www.editplus.com/)                            | Text editor with FTP, FTPS and sftp capabilities             | 💖       |       |       |
 
 ### 🍉 写作笔记工具
 
@@ -156,7 +169,7 @@
 | 软件                 | 链接                                                         | 说明                                                         | Windows | MacOS | Linux |
 | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ----- | ----- |
 | **谷歌访问助手**     | [链接](https://chrome.zzzmh.cn/info?token=gocklaboggjfkolaknpbhddbaopcepfp) | 提供访问 Google 搜索等服务                                   | 💖       | 💖     | 💖     |
-| **PP谷歌访问助手**   | [链接](https://chrome.zzzmh.cn/info?token=kahndhhhcnignmbbpiobmdlgjhgfkfil) | 类似学谷歌访问助手，提供访问 Google 搜索等服务               | 💖       | 💖     | 💖     |
+| **PP谷歌访问助手**   | [链接](https://chrome.zzzmh.cn/info?token=kahndhhhcnignmbbpiobmdlgjhgfkfil) | 类似于谷歌访问助手，提供访问 Google 搜索等服务               | 💖       | 💖     | 💖     |
 | **集装箱**           | [链接](http://one.newday.me/)                                | 一个插件，提供一揽子服务                                     | 💖       | 💖     | 💖     |
 | **MONKNOW 新标签页** | [链接](https://chrome.zzzmh.cn/info?token=lnbjajkbekhkgablenknhapphbdbldeh) | 美观且允许高度自定义的新标签页扩展插件，支持支持网站网址URL分组管理，数据实时云同步，黑暗深色夜间主题模式 | 💖       | 💖     | 💖     |
 | **取字**             | [链接](http://willingstudio.com/)                            | 具有通识化场景的 OCR 识别功能浏览器插件快速框选，可精确识别图片或者视频中的文本 | 💖       | 💖     | 💖     |
