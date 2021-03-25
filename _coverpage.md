@@ -1,10 +1,9 @@
-
-# CS-Docs
+# amazing-softwares
 
 <br>
 <br>
 
-> 一个菜鸟程序员的成长之路
+> 推荐好玩好用的软件，整理了常用系统及软件链接，长期持续更新 ~
 
 <br>
 <br>
@@ -19,9 +18,10 @@
 <br>
 <br>
 
-[Gitee](https://gitee.com/cunyu1943/CS-Docs)
-[GitHub](https://github.com/cunyu1943/CS-Docs)
+[Gitee](https://gitee.com/cunyu1943/amazing-softwares)
+[GitHub](https://github.com/cunyu1943/amazing-softwares)
 [开始阅读](/README.md)
 
 <!-- 背景色 -->
 ![color](#fff)
+
