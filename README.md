@@ -12,8 +12,6 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![cs-docs](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=cs-docs&theme=dark)](https://github.com/cunyu1943/cs-docs) | [![amazing-websites](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-websites&theme=dark)](https://github.com/cunyu1943/amazing-websites) | [![amazing-books](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-books&theme=dark)](https://github.com/cunyu1943/amazing-books) |
 
-
-
 # 🚩 简介
 
 -   项目说明：推荐好玩好用的软件，整理了常用系统及软件链接，长期持续更新
@@ -26,6 +24,12 @@
 | **Gitee**  | https://gitee.com/cunyu1943/amazing-softwares  |
 
 欢迎大家推荐更多各种好玩好用的软件，如果有失效的，一定要及时提交 Issues ！如果对你有用，可以点击右上角 **Star** 💖💖💖 表示支持一下哦 🙏🙏🙏！
+
+此外我还建立了交流群，方便大家一起交流，在这里你可以聊编程、聊生活、聊工作……，还有免费编程书籍获取，都在群里，赶紧来加入吧！
+
+**加群方式**：关注公众号 **村雨遥**，回复 **加群** 即可。
+
+<div align="center"><img src="https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png" style="zoom:50%;" /></div>
 
 温馨提示：
 
