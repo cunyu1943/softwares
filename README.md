@@ -36,7 +36,10 @@
 -   [软件分类](#软件分类)
     -   [编程](#编程)
     -   [笔记](#笔记)
+    -   [办公](#办公)
     -   [刻录工具](#刻录工具)
+    -   [素材管理](#素材管理)
+    -   [远程工具](#远程工具)
     -   [终端工具](#终端工具)
 -   [作者](#Authors)
 
@@ -77,10 +80,12 @@
 | [Mark Text](https://marktext.app/)                | 简洁优雅的 Markdown 编辑器                                   | :heart: | :heart: | :heart: |
 | [蚂蚁笔记](https://leanote.com/)                  | 蚂蚁笔记 = 笔记 + 博客 + 协作 + 私有云                       | :heart: | :heart: | :heart: |
 | [Notion](https://www.notion.so/)                  | 一款提供笔记、任务、数据库、看板、维基、日历和提醒等组件的笔记应用 | :heart: | :heart: | :heart: |
+| [Notable](https://notable.app/)                   | 跨平台 Markdown 本地编辑器                                   | :heart: | :heart: | :heart: |
 | [OneNote](https://www.onenote.com/download)       | 微软出品，记录想法、观点和待办事项                           | :heart: | :heart: |         |
 | [Simplenote](https://simplenote.com/)             | 一款轻量级笔记软件                                           | :heart: | :heart: | :heart: |
 | [Typora](https://typora.io/)                      | 一款极简所见即所得的 Markdown 笔记软件                       | :heart: | :heart: | :heart: |
 | [UpNote](https://getupnote.com/)                  | 一款简洁干净的笔记软件                                       | :heart: | :heart: |         |
+| [Vditor](https://github.com/Vanessa219/vditor)    | 易于使用的 Markdown 编辑器，为适配不同的应用场景而生         | :heart: | :heart: | :heart: |
 | [wolai](https://www.wolai.com/)                   | 面向未来的云端笔记                                           | :heart: | :heart: | :heart: |
 | [为知笔记](https://www.wiz.cn/zh-cn/)             | 云笔记、个人知识管理、团队协作……                             | :heart: | :heart: | :heart: |
 | [熊掌记](https://bear.app/cn/)                    | 优雅、灵活的写作笔记应用                                     |         | :heart: |         |
@@ -88,6 +93,15 @@
 | [印象笔记](https://staging.yinxiang.com/)         | 工作必备效率应用                                             | :heart: | :heart: |         |
 | [有道云笔记](https://note.youdao.com/)            | 专注办公提效的笔记软件                                       | :heart: | :heart: | :heart: |
 | [语雀](https://www.yuque.com/install/desktop)     | 新一代云端知识库                                             | :heart: | :heart: |         |
+| [专注笔记](http://focusapp.ink/#/)                | 精美的电子笔记软件                                           | :heart: | :heart: |         |
+
+## 办公
+
+| 软件                               | 简介         | Windows | macOS | Linux |
+| ---------------------------------- | ------------ | ------- | ----- | ----- |
+| [OneKeyTools](http://oktools.xyz/) | PPT 制作插件 | :heart: |       |       |
+
+
 
 ## 刻录工具
 
@@ -101,6 +115,23 @@
 | [Ventoy](https://www.ventoy.net/cn/download.html)    | 新一代多系统启动 U 盘解决方案                                | :heart: |         | :heart: |
 | [WoeUSB](https://github.com/slacka/WoeUSB/releases)  | Linux 下的制作 Windows 启动 U 盘的工具                       |         |         | :heart: |
 | [微 PE 工具箱](http://www.wepe.com.cn/download.html) | 最好用的 WinPE 装机维护工具                                  | :heart: |         |         |
+
+## 素材管理
+
+| 软件                                 | 简介             | Windows | macOS   | Linux |
+| ------------------------------------ | ---------------- | ------- | ------- | ----- |
+| [Billfish](https://www.billfish.cn/) | 免费素材管理工具 | :heart: | :heart: |       |
+
+## 远程工具
+
+| 软件                                                         | 简介                           | Windows | macOS   | Linux   |
+| ------------------------------------------------------------ | ------------------------------ | ------- | ------- | ------- |
+| [AnyDesk](https://anydesk.com/zhs/downloads)                 | 跨平台远程桌面软件             | :heart: | :heart: | :heart: |
+| [ToDesk](https://www.todesk.com/download.html)               | 安全流畅的远程控制软件         | :heart: | :heart: | :heart: |
+| [TeamViewer](https://www.teamviewer.cn/cn/download/windows/) | 远程桌面访问与协作             | :heart: | :heart: | :heart: |
+| [向日葵](https://sunlogin.oray.com/download/)                | 支持主流操作系统跨平台协同操作 | :heart: | :heart: | :heart: |
+
+
 
 ## 终端工具
 
