@@ -1,5 +1,6 @@
-# code-softwares
-🛠 软件搜集
+# softwares
+
+🛠 软件搜集（Effective Softwares Collections）
 
 | ![GitHub watchers](https://img.shields.io/github/watchers/cunyu1943/softwares?color=blueviolet&style=for-the-badge) | ![GitHub forks](https://img.shields.io/github/forks/cunyu1943/softwares?color=orange&style=for-the-badge) | ![GitHub Repo stars](https://img.shields.io/github/stars/cunyu1943/softwares?color=success&style=for-the-badge) | ![GitHub](https://img.shields.io/github/license/cunyu1943/softwares?style=for-the-badge) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
