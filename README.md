@@ -38,6 +38,7 @@
     -   [笔记](#笔记)
     -   [办公](#办公)
     -   [刻录工具](#刻录工具)
+    -   [PDF 工具](#PDF-工具)
     -   [素材管理](#素材管理)
     -   [远程工具](#远程工具)
     -   [终端工具](#终端工具)
@@ -120,6 +121,18 @@
 | [WoeUSB](https://github.com/slacka/WoeUSB/releases)  | Linux 下的制作 Windows 启动 U 盘的工具                       |         |         | :heart: |
 | [微 PE 工具箱](http://www.wepe.com.cn/download.html) | 最好用的 WinPE 装机维护工具                                  | :heart: |         |         |
 
+## PDF 工具
+
+| 软件                                                         | 简介                                                         | Windows | macOS   | Linux   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ------- |
+| [Adobe Acrobat Reader DC](https://acrobat.adobe.com/hk/zh-Hant/acrobat/pdf-reader.html) | 最出色的 PDF 阅读器                                          | :heart: |         |         |
+| [福昕 阅读器](https://www.foxitsoftware.cn/downloads/)       | 一款功能强大的 PDF 阅读器，支持查看、注释、填写和签署PDF文件 | :heart: | :heart: | :heart: |
+| [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) | 一款小巧的 PDF 阅读器                                        | :heart: |         |         |
+| [万兴 PDF 编辑器](https://pdf.wondershare.cn/)               | 秒会的全能 PDF 编辑神器                                      | :heart: | :heart: |         |
+| [知云文献翻译](http://www.zhiyunwenxian.cn/)                 | PDF 文献翻译阅读神器                                         | :heart: | :heart: |         |
+
+
+
 ## 素材管理
 
 | 软件                                 | 简介             | Windows | macOS   | Linux |
@@ -134,8 +147,6 @@
 | [ToDesk](https://www.todesk.com/download.html)               | 安全流畅的远程控制软件         | :heart: | :heart: | :heart: |
 | [TeamViewer](https://www.teamviewer.cn/cn/download/windows/) | 远程桌面访问与协作             | :heart: | :heart: | :heart: |
 | [向日葵](https://sunlogin.oray.com/download/)                | 支持主流操作系统跨平台协同操作 | :heart: | :heart: | :heart: |
-
-
 
 ## 终端工具
 
