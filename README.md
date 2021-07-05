@@ -79,7 +79,7 @@
 | [看云](https://www.kancloud.cn/)                  | 一个现代化文档写作、托管及数字出版平台                       | :heart: | :heart: | :heart: |
 | [Mark Text](https://marktext.app/)                | 简洁优雅的 Markdown 编辑器                                   | :heart: | :heart: | :heart: |
 | [蚂蚁笔记](https://leanote.com/)                  | 蚂蚁笔记 = 笔记 + 博客 + 协作 + 私有云                       | :heart: | :heart: | :heart: |
-| [Notion](https://www.notion.so/)                  | 一款提供笔记、任务、数据库、看板、维基、日历和提醒等组件的笔记应用 | :heart: | :heart: | :heart: |
+| [Notion](https://www.notion.so/)                  | 提供笔记、任务、数据库、看板、维基、日历和提醒等组件的笔记应用 | :heart: | :heart: | :heart: |
 | [Notable](https://notable.app/)                   | 跨平台 Markdown 本地编辑器                                   | :heart: | :heart: | :heart: |
 | [OneNote](https://www.onenote.com/download)       | 微软出品，记录想法、观点和待办事项                           | :heart: | :heart: |         |
 | [Simplenote](https://simplenote.com/)             | 一款轻量级笔记软件                                           | :heart: | :heart: | :heart: |
@@ -89,7 +89,7 @@
 | [wolai](https://www.wolai.com/)                   | 面向未来的云端笔记                                           | :heart: | :heart: | :heart: |
 | [为知笔记](https://www.wiz.cn/zh-cn/)             | 云笔记、个人知识管理、团队协作……                             | :heart: | :heart: | :heart: |
 | [熊掌记](https://bear.app/cn/)                    | 优雅、灵活的写作笔记应用                                     |         | :heart: |         |
-| [小书匠](http://soft.xiaoshujiang.com/)           | 不仅是一款 Markdown 编辑器，更是一款功能丰富、强大的知识管理工具 | :heart: | :heart: | :heart: |
+| [小书匠](http://soft.xiaoshujiang.com/)           | 既是一款 Markdown 编辑器，更是一款功能丰富、强大的知识管理工具 | :heart: | :heart: | :heart: |
 | [印象笔记](https://staging.yinxiang.com/)         | 工作必备效率应用                                             | :heart: | :heart: |         |
 | [有道云笔记](https://note.youdao.com/)            | 专注办公提效的笔记软件                                       | :heart: | :heart: | :heart: |
 | [语雀](https://www.yuque.com/install/desktop)     | 新一代云端知识库                                             | :heart: | :heart: |         |
@@ -97,9 +97,13 @@
 
 ## 办公
 
-| 软件                               | 简介         | Windows | macOS | Linux |
-| ---------------------------------- | ------------ | ------- | ----- | ----- |
-| [OneKeyTools](http://oktools.xyz/) | PPT 制作插件 | :heart: |       |       |
+| 软件                                             | 简介                   | Windows | macOS   | Linux |
+| ------------------------------------------------ | ---------------------- | ------- | ------- | ----- |
+| [iSlide](https://www.islide.cc/download)         | PPT 设计辅助插件       |         |         |       |
+| [OneKeyTools](http://oktools.xyz/)               | PPT 制作插件           | :heart: |         |       |
+| [石墨文档](https://shimo.im/download)            | 在线协同文档办公软件   | :heart: | :heart: |       |
+| [万方格子](http://ffcell.com/home/products.aspx) | Excel 工具箱           | :heart: |         |       |
+| [万彩办公大师](http://www.wofficebox.com/)       | 办公必备的小工具百宝箱 | :heart: |         |       |
 
 
 
