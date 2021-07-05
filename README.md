@@ -107,6 +107,16 @@
 | [万方格子](http://ffcell.com/home/products.aspx) | Excel 工具箱           | :heart: |         |       |
 | [万彩办公大师](http://www.wofficebox.com/)       | 办公必备的小工具百宝箱 | :heart: |         |       |
 
+## 解压缩
+
+| 软件                                  | 简介                               | Windows | macOS   | Linux   |
+| ------------------------------------- | ---------------------------------- | ------- | ------- | ------- |
+| [Bandizip](https://cn.bandisoft.com/) | ZIP 压缩包管理器的新选择           | :heart: | :heart: |         |
+| [PeaZip](https://peazip.github.io/)   | 解压缩软件                         | :heart: |         | :heart: |
+| [WinRAR](https://www.winrar.com.cn/)  | 老牌压缩软件                       | :heart: | :heart: |         |
+| [360 压缩](https://yasuo.360.cn/)     | 压缩解压一键处理，助力办公安全省时 | :heart: | :heart: |         |
+| [7-Zip](https://www.7-zip.org/)       | 解压缩软件                         | :heart: | :heart: | :heart: |
+
 
 
 ## 刻录工具
