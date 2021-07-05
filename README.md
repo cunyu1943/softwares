@@ -41,6 +41,7 @@
     -   [PDF 工具](#PDF-工具)
     -   [素材管理](#素材管理)
     -   [远程工具](#远程工具)
+    -   [音/视频](#音/视频)
     -   [终端工具](#终端工具)
 -   [作者](#Authors)
 
@@ -131,8 +132,6 @@
 | [万兴 PDF 编辑器](https://pdf.wondershare.cn/)               | 秒会的全能 PDF 编辑神器                                      | :heart: | :heart: |         |
 | [知云文献翻译](http://www.zhiyunwenxian.cn/)                 | PDF 文献翻译阅读神器                                         | :heart: | :heart: |         |
 
-
-
 ## 素材管理
 
 | 软件                                 | 简介             | Windows | macOS   | Linux |
@@ -147,6 +146,20 @@
 | [ToDesk](https://www.todesk.com/download.html)               | 安全流畅的远程控制软件         | :heart: | :heart: | :heart: |
 | [TeamViewer](https://www.teamviewer.cn/cn/download/windows/) | 远程桌面访问与协作             | :heart: | :heart: | :heart: |
 | [向日葵](https://sunlogin.oray.com/download/)                | 支持主流操作系统跨平台协同操作 | :heart: | :heart: | :heart: |
+
+## 音/视频
+
+| 软件                                                   | 简介                                                         | Windows | MacOS   | Linux   |
+| ------------------------------------------------------ | ------------------------------------------------------------ | ------- | ------- | ------- |
+| [ArcTime](https://arctime.org/download.html)           | 强大的视频播放器                                             | :heart: | :heart: | :heart: |
+| [EV 录屏](https://www.ieway.cn/evcapture.html)         | 免费无水印，集视频录制与直播功能于一身的桌面录屏软件，可实现分屏录制、实时按键显示、录屏涂鸦等功能 | :heart: | :heart: |         |
+| [foobar2000](http://www.foobar2000.org/download)       | 免费的多功能音频播放器                                       | :heart: | :heart: |         |
+| [Kdenlive](https://kdenlive.org/en/download/)          | 免费视频编辑器                                               | :heart: | :heart: | :heart: |
+| [Listen1](https://listen1.github.io/listen1/)          | 受够了各种音乐软件来回切换，用它就够了，多平台曲库           | :heart: | :heart: | :heart: |
+| [OpenShot](https://www.openshot.org/zh-hans/download/) | 免费视频编辑器                                               | :heart: | :heart: | :heart: |
+| [PotPlayer](https://potplayer.org/)                    | 强大的视频播放器                                             | :heart: |         |         |
+| [QQ 影音](https://player.qq.com/)                      | QQ 出品的本地播放器                                          | :heart: | :heart: |         |
+| [射手影音](http://www.splayer.org/zh-Hans/)            | 智能翻译播放器                                               | :heart: | :heart: |         |
 
 ## 终端工具
 
