@@ -91,6 +91,7 @@
 | [Notion](https://www.notion.so/)                  | 提供笔记、任务、数据库、看板、维基、日历和提醒等组件的笔记应用 | :heart: | :heart: | :heart: |
 | [Notable](https://notable.app/)                   | 跨平台 Markdown 本地编辑器                                   | :heart: | :heart: | :heart: |
 | [OneNote](https://www.onenote.com/download)       | 微软出品，记录想法、观点和待办事项                           | :heart: | :heart: |         |
+|[氢刻](https://qingk.com/)|卡片式记录构建自己的知识体系|:heart:|:heart:|:heart:|
 | [Simplenote](https://simplenote.com/)             | 一款轻量级笔记软件                                           | :heart: | :heart: | :heart: |
 | [Typora](https://typora.io/)                      | 一款极简所见即所得的 Markdown 笔记软件                       | :heart: | :heart: | :heart: |
 | [UpNote](https://getupnote.com/)                  | 一款简洁干净的笔记软件                                       | :heart: | :heart: |         |
