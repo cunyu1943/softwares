@@ -7,7 +7,9 @@
 
 >   温馨提示：多用 `Ctrl + F` 快捷键，资源排名不分先后，只取决于添加的时间 ~
 
+## Star 趋势图
 
+<img src="https://api.star-history.com/svg?repos=cunyu1943/softwares&type=Date" width="500"/>
 
 # 说明
 
